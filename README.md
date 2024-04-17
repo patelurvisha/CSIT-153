@@ -4,7 +4,7 @@
     {
       "role": "roles/bigquery.jobUser",
       "members": [
-        "user:patelurvi19092000@Gmail.com
+        "user:upatelmy.trine.edu
       ]
     }
   ]
