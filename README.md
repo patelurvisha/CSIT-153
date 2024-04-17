@@ -4,7 +4,7 @@
     {
       "role": "roles/bigquery.jobUser",
       "members": [
-        "user:upatel23my.trine.edu
+        "user:upatel23my.trine.ed
       ]
     }
   ]
